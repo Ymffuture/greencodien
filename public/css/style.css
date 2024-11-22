@@ -7,6 +7,11 @@ html {
   font-weight: 400;
   width: 100% !important;
   height: 100% !important;
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+  }
   
 }
 h2,
@@ -223,13 +228,15 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/003.jpg) center center no-repeat;
+  background: url('../img/003.jpg') no-repeat center center fixed; /* Fixed positioning */
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  background-size: cover;
   -o-background-size: cover;
+  background-size: cover;
+  overflow-x: scroll;
 }
+
 .intro .overlay {
   background: rgba(0, 0, 0, 0.384);
 }
