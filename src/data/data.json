@@ -1,0 +1,125 @@
+{
+  "Header": {
+    "title": "Welcome to Greencodien Academy",
+    "paragraph": "Unlock your coding potential with Greencodien, the ultimate platform to learn, grow, and thrive in the tech industry. From foundational skills to advanced programming, we prepare you for a future filled with innovation."
+  },
+  "About": {
+    "paragraph": "At Greencodien Academy, we are passionate about empowering individuals with cutting-edge coding knowledge and skills. Our mission is to bridge the gap between aspiration and achievement through practical, industry-relevant training. Join us on a journey to transform your passion for technology into a rewarding career.",
+    "Why": [
+      "Comprehensive coding curriculum",
+      "Industry-expert instructors",
+      "Hands-on project-based learning",
+      "Career-ready certifications"
+    ],
+    "Why2": [
+      "Affordable and flexible programs",
+      "Networking with tech leaders",
+      "Job placement assistance",
+      "Lifetime access to resources"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Interactive Coding Bootcamp",
+      "largeImage": "img/portfolio/coding-bootcamp-large.jpg",
+      "smallImage": "img/portfolio/coding-bootcamp-small.jpg"
+    },
+    {
+      "title": "Web Development Workshop",
+      "largeImage": "img/portfolio/web-dev-large.jpg",
+      "smallImage": "img/portfolio/web-dev-small.jpg"
+    },
+    {
+      "title": "Hackathon Highlights",
+      "largeImage": "img/portfolio/hackathon-large.jpg",
+      "smallImage": "img/portfolio/hackathon-small.jpg"
+    },
+    {
+      "title": "AI and Machine Learning Seminar",
+      "largeImage": "img/portfolio/ai-seminar-large.jpg",
+      "smallImage": "img/portfolio/ai-seminar-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Web Development",
+      "text": "Master the art of building modern, responsive websites with HTML, CSS, JavaScript, and the latest frameworks."
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Data Science",
+      "text": "Dive into data analysis, visualization, and machine learning with Python, R, and SQL."
+    },
+   
+    {
+      "icon": "fa fa-mobile",
+      "name": "Mobile App Development",
+      "text": "Learn to design and develop cross-platform mobile apps using React Native and Flutter."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/student-1.jpg",
+      "text": "\"Joining Greencodien was the best decision of my life. The instructors are fantastic, and the hands-on projects prepared me for a career in tech!\"",
+      "name": "Alex Johnson"
+    },
+    {
+      "img": "img/testimonials/student-2.jpg",
+      "text": "\"Greencodien's bootcamps gave me the confidence to switch careers. Now, I’m a full-stack developer working on exciting projects.\"",
+      "name": "Sophia Lee"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/Future Ymf.jpg",
+      "name": "Kgomotso Nkosi",
+      "job": "Founder & CEO"
+    },
+    {
+      "img": "img/portfolio/001.jpg",
+      "name": "GreenCodien",
+      "job": "Green Coded, Build Dream"
+    },
+    {
+      "img": "img/portfolio/001.jpg",
+      "name": "GreenCodien",
+      "job": "Green Coded, Build Dream"
+    },
+    {
+      "img": "img/portfolio/001.jpg",
+      "name": "GreenCodien",
+      "job": "Green Coded, Build Dream"
+    }
+  ],
+  "Contact": {
+    "address": "2354 Drieziek 4, Orange Farm, Johannesburg South, 1841",
+    "phone": "+27 63 441 4863",
+    "email": "info@greencodien.com",
+    "facebook": "https://facebook.com/greencodien",
+    "twitter": "https://twitter.com/greencodien",
+    "youtube": "https://youtube.com/greencodien"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Learn by Doing",
+      "text": "Our practical approach ensures you gain real-world coding experience from day one."
+    },
+    {
+      "icon": "fa fa-rocket",
+      "title": "Fast-Track Your Career",
+      "text": "Accelerate your journey to a high-paying tech job with our industry-aligned curriculum."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Community Support",
+      "text": "Become part of a vibrant tech community that supports your growth and celebrates your success."
+    },
+    {
+      "icon": "fa fa-laptop",
+      "title": "State-of-the-Art Tools",
+      "text": "Access the latest software and technologies to stay ahead in the competitive tech industry."
+    }
+  ]
+}

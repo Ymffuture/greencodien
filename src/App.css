@@ -1,0 +1,46 @@
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 121%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+.nav-1b{
+  background:royalblue !important;
+
+}
+.nav-1b::after{
+  background:gold !important;
+  content: '';
+  width: 100%;
+  height: 50px;
+  bottom: -10px;
+  position: relative;
+  left: 0 !important;
+  border-bottom: 2px solid #000000;
+animation: glow 2s infinite !important;
+}
+@keyframes glow {
+  0%{
+    border-bottom: 2px solid #000000;
+    
+  }
+  100%{
+    border-bottom: 2px solid #129b00;
+  }
+}
+.page-scroll{
+  color: #ffffff !important;
+}
