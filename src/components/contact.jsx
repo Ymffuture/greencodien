@@ -156,7 +156,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             Copyright &copy; 2023 - 2024 GreenCodien, All Rights Reserved.{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
+            <a href="https://webpy-7tcd.onrender.com/views/"  rel="nofollow">
               Privacy Policy
             </a>
           </p>
